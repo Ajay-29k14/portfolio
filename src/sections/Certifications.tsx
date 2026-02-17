@@ -44,28 +44,35 @@ const Certifications = () => {
       issuer: 'HackerRank',
       icon: Code2,
       color: 'from-green-500 to-emerald-600',
-      link: 'https://www.hackerrank.com/'
+      link: 'https://drive.google.com/file/d/1rvK7JQ4jECCph4B69Mp9GvQ_7hIyUurR/view?usp=sharing'
     },
     {
       title: 'Data Structures in C++',
       issuer: 'Coding Ninjas',
       icon: Database,
       color: 'from-orange-500 to-red-600',
-      link: 'https://www.codingninjas.com/'
+      link: 'https://drive.google.com/file/d/18gco7-9Lm2cFirdpT7II2Zc4CghQrlvr/view?usp=sharing'
     },
     {
       title: 'Data Science with AI',
       issuer: 'Internshala',
       icon: Brain,
       color: 'from-blue-500 to-indigo-600',
-      link: 'https://internshala.com/'
+      link: 'https://drive.google.com/file/d/1INroW_on7GCQqE9FLNOkWOLNUPDfHa96/view?usp=sharing'
+    },
+    {
+      title: 'GEN-AI',
+      issuer: 'Oracle',
+      icon: Briefcase,
+      color: 'from-green-500 to-emerald-600',
+      link: 'https://drive.google.com/file/d/1AFtjycGes3_Y8V2WENqtHUASATBrFxi-/view?usp=sharing'
     },
     {
       title: 'Software Engineer Intern',
       issuer: 'HackerRank',
       icon: Briefcase,
       color: 'from-green-500 to-emerald-600',
-      link: 'https://www.hackerrank.com/'
+      link: 'https://drive.google.com/file/d/1D2yiu8rIb1YRdg4bxMz7AKIrHZd_IT1z/view?usp=sharing'
     }
   ];
 
