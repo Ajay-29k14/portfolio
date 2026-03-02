@@ -96,7 +96,7 @@ const Projects = () => {
   ],
   result: 'Accurate semantic matching with improved resume optimization insights for users',
   tech: ['FastAPI', 'React', 'Sentence-Transformers', 'Machine Learning', 'REST API'],
-  image: '/images/project-resume-analyzer.jpg',
+  image: '/images/ai-resume.png',
   github: 'https://github.com/Ajay-29k14/AI-Resume-Analyzer',
   demo: 'https://ai-resume-analyzer-wheat-two.vercel.app/'
 }
