@@ -81,7 +81,25 @@ const Projects = () => {
       image: '/images/project-car-price.jpg',
       github: 'https://github.com/Ajay-29k14/Car-price-predictor',
       demo: '#'
-    }
+    },
+    {
+  title: 'AI Resume Analyzer',
+  description: 'Full-stack web application for intelligent resume-job description matching using NLP',
+  problem: 'Helping job seekers evaluate how well their resume matches a specific job description and improve their ATS score',
+  features: [
+    'Semantic similarity scoring using Sentence-Transformers (cosine similarity)',
+    'PDF and DOCX resume parsing with automated text extraction',
+    'Keyword gap analysis between resume and job description',
+    'FastAPI backend with RESTful endpoints',
+    'React (Vite) frontend with real-time score visualization',
+    'Deployed backend on Railway and frontend on Vercel with CI/CD'
+  ],
+  result: 'Accurate semantic matching with improved resume optimization insights for users',
+  tech: ['FastAPI', 'React', 'Sentence-Transformers', 'Machine Learning', 'REST API'],
+  image: '/images/project-resume-analyzer.jpg',
+  github: 'https://github.com/Ajay-29k14/AI-Resume-Analyzer',
+  demo: 'https://ai-resume-analyzer-wheat-two.vercel.app/'
+}
   ];
 
   return (
